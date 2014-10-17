@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crg:home|Door43 (crg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crg|d43-crg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crg/archive/master.zip|d43-crg.zip]]
+
+**Recent Changes**
+{{changes>ns = crg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crg|Ethnologue data]]
+
